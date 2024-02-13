@@ -1,0 +1,2 @@
+The contents of file1.txt
+inserting a new text in the new line
